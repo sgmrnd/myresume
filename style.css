@@ -2,11 +2,6 @@ body {
    background-color: #E4E6E1
 }
 
-@font-face {
-   font-family: Roboto;
-   src: url(Roboto-Regular.ttf) format("truetype");
-}
-
 * {
   font-family: Roboto;
 }
